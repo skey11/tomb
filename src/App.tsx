@@ -140,7 +140,6 @@ const AppInner = () => {
         abi: runtimeAbi,
         functionName: "tombCount"
       })) as bigint;
-
       const ids = Array.from({ length: Number(tombCount) }, (_, i) => i);
       const onchain = await Promise.all(
         ids.map(async (i) => {
