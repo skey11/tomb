@@ -1,5 +1,7 @@
 # 地址
 https://tomb.viplook.dpdns.org/
+
+monad 测试链记录地址 https://monad-testnet.socialscan.io/address/0xD477B3B34868dd349513294baA517fFEc727e244
 # 永恒的历史
 Web3 发展得太快了，快到我们经常忘记我们从哪里来。区块链的核心精神是“不可篡改”，但我们的历史记忆却往往散落在 Web2 的新闻里。
 English: Hi everyone. Web3 moves fast. We often forget where we came from. Blockchain is about "Immutability," yet our history is scattered across Web2 news.
