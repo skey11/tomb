@@ -1,0 +1,6 @@
+name = "tomb-pages"
+compatibility_date = "2024-12-01"
+
+[pages]
+project_name = "tomb"
+build_output_dir = "dist"
