@@ -1,0 +1,13 @@
+node_modules
+/dist
+release/
+.idea/
+.vscode/
+.DS_Store
+*.dot
+*.log
+*.ign
+.gocache
+.github
+bin/
+.env
